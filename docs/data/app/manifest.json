@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "version": "2026-11-05.1",
+ "records_through": "2026-11-05",
+ "published": "2026-11-05T22:06:20Z",
+ "min_app_build": 1,
+ "files": {
+  "detail-west-virginia": {
+   "path": "detail-west-virginia-3a6fa6da2242.json",
+   "sha256": "3a6fa6da22421eb2fb3c58ba097a4c78b828929b9d3a35c8d6d4dc1a2e28b07c",
+   "bytes": 223125,
+   "rows": 3329
+  },
+  "places": {
+   "path": "places-7ade88141ef1.json",
+   "sha256": "7ade88141ef1cc0f558800e9d0bd724b3f1ae37b46bacd035cf9f17e2a04f060",
+   "bytes": 549259,
+   "rows": 3414
+  }
+ },
+ "counts": {
+  "places": 3414,
+  "files": 2,
+  "bytes": 772384,
+  "restaurants": 3339
+ }
+}
