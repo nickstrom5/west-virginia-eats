@@ -1,0 +1,28 @@
+{
+ "schema": 2,
+ "version": "2026-11-05.1",
+ "records_through": "2026-11-05",
+ "min_app_build": 1,
+ "files": {
+  "detail-all": {
+   "path": "detail-all-3a6fa6da2242.json",
+   "sha256": "3a6fa6da22421eb2fb3c58ba097a4c78b828929b9d3a35c8d6d4dc1a2e28b07c",
+   "bytes": 223125
+  },
+  "places": {
+   "path": "places-1cfebb1f045e.json",
+   "sha256": "1cfebb1f045e9ef25ab4441ed539367198bd7c1638ceba9f9e5cf2e9e4c83178",
+   "bytes": 565973
+  },
+  "state": {
+   "path": "state-78b07cb45639.json",
+   "sha256": "78b07cb45639ea7c2484a4394639a7099e04202796a73d101ae63326730913e1",
+   "bytes": 9133
+  }
+ },
+ "counts": {
+  "places": 3414,
+  "restaurants": 3339,
+  "bytes": 798231
+ }
+}
